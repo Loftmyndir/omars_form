@@ -1,12 +1,12 @@
 {
   "name": "form",
   "version": "1.0.0",
-  "description": "",
+  "description": "prufa gera einfalt form með react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
-    "build": "parcel build"
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
