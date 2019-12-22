@@ -2,14 +2,15 @@
 
 formið hans ómars, þetta er public. þarsem við erum ekki búnir að borga neitt.
 
-setja upp skref fyrir skref:
+skref fyrir skref:
 
-sækja öll dependencies
-npm install --save-dev
 
-prufa
-npm start
-opna localhost:1234
+sækja öll dependencies<br />
+npm install --save-dev<br />
 
-Build í dist
+prufa (dev)<br />
+npm start<br />
+opna localhost:1234<br />
+
+Build í dist:<br />
 npm run build
