@@ -1,6 +1,6 @@
 # omars_form
 
-formið hans ómars, þetta er public. þarsem við erum ekki búnir að borga neitt.
+formið hans ómars, þetta er public. demo only
 
 skref fyrir skref:
 
